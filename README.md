@@ -69,3 +69,20 @@ streamlit run stock_analysis.py
 ## Notes
 
 本プロジェクトは大学ゼミで学習したポートフォリオ理論の分析コードを基礎とし、個人でWebアプリ化および機能拡張を行ったものです。
+## Screenshots
+
+### Efficient Frontier
+
+![Efficient Frontier](スクリーンショット%202026-06-01%20115130.png)
+
+### Portfolio Analysis
+
+![Portfolio Analysis](スクリーンショット%202026-06-01%20115218.png)
+
+### Investment Simulation
+
+![Investment Simulation](スクリーンショット%202026-06-01%20115232.png)
+
+### Additional Results
+
+![Additional Results](スクリーンショット%202026-06-01%20115244.png)
