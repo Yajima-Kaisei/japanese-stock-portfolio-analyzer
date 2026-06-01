@@ -1,2 +1,2 @@
-# stock-portfolio-analysis1
+# japanese-stock-portfolio-analyzer
 Portfolio analysis of Japanise stocks using
